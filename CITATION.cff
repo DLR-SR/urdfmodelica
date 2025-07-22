@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: The DLR URDFModelica Library
+abstract: The DLR URDFModelica Library is a free open-source library for simulation of robots described as URDF. Given a robot URDF description, a python script translates it to Modelica syntax and automatically builds a package structure to simulate this robot in Modelica. Alternatively a generic robot simulation can be parameterized based on a single Modelica record.
+authors:
+  - family-names: Pignède
+    given-names: Antoine
+	orcid: "https://orcid.org/0000-0002-9255-2405"
+  - family-names: Oldemeyer
+    given-names: Carsten
+    orcid: "https://orcid.org/0009-0009-7914-8246"
+version: 0.3.0
+date-released: "2025-05-20"
+license: 3-Clause BSD License
+repository-code: "https://github.com/DLR-RM/urdfmodelica"

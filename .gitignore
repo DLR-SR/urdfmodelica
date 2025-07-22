@@ -1,0 +1,29 @@
+# exclude following files
+*~
+*.bak
+*.bak-mo
+*.c
+*.csv
+*.exe
+*.html
+*.mat
+*.mof
+buildlog.txt
+dsfinal.txt
+dsin.txt
+dslog.txt
+dsmodel*
+dymosim*
+request
+status
+stop
+success
+
+# Testing stuff
+Testing*
+!ReferenceData/*
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
