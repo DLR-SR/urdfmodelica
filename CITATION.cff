@@ -9,7 +9,7 @@ authors:
   - family-names: Oldemeyer
     given-names: Carsten
     orcid: "https://orcid.org/0009-0009-7914-8246"
-version: 0.3.0
-date-released: "2025-05-20"
+version: 0.3.3
+date-released: "2025-09-02"
 license: 3-Clause BSD License
 repository-code: "https://github.com/DLR-RM/urdfmodelica"
