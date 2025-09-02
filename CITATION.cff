@@ -5,7 +5,7 @@ abstract: The DLR URDFModelica Library is a free open-source library for simulat
 authors:
   - family-names: Pignède
     given-names: Antoine
-	orcid: "https://orcid.org/0000-0002-9255-2405"
+    orcid: "https://orcid.org/0000-0002-9255-2405"
   - family-names: Oldemeyer
     given-names: Carsten
     orcid: "https://orcid.org/0009-0009-7914-8246"
