@@ -1,9 +1,9 @@
 ---
-name: Bug report
-about: Create a report to help us improve
+name: Bug report Python
+about: Create a report about an issue with Python to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: python-bug
+assignees: afxp
 
 ---
 
@@ -25,8 +25,7 @@ If applicable, add screenshots to help explain your problem.
 
 **System**
  - OS: [e.g. Windows 11, Linux OpenSuse 15]
- - Modelica: [e.g. Dymola 2024, OpenModelica v1.24]
  - Python: [e.g. Python 3.12]
 
 **Additional context**
-Add any other context about the problem here.
+Add any other context about the problem here. For example, if Modelica also affects the bug.
