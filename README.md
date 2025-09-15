@@ -6,6 +6,8 @@ Standalone simple Modelica URDF robots
 ## Abstract
 The DLR URDFModelica Library is a free open-source library for simulation of robots described as URDF. Given a robot URDF description, a python script translates it to Modelica syntax and automatically builds a package structure to simulate this robot in Modelica. Alternatively a generic robot simulation can be parameterized based on a single Modelica record.
 
+URDFModelica received the ![Library Award 2nd Prize](https://github.com/DLR-RM/urdfmodelica/blob/main/doc/20250910_LibraryAward_URDFModelica.pdf) of the [16th International Modelica & FMI Conference](https://modelica.org/events/modelica2025/).
+
 ## Introduction
 **URDFModelica** is a library to convert robot designs into multibody simulation models based on the **U**nified **R**obot **D**escription **F**ormat **URDF**, see [ROS 2 Documentation](http://docs.ros.org/en/jazzy/Tutorials/Intermediate/URDF/URDF-Main.html) and [ROS Wiki](https://wiki.ros.org/urdf).
 
