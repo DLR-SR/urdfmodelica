@@ -65,6 +65,9 @@ There is a last input argument to the Python script `python urdf_to_package.py`
 ## Detailed Library Description
 The detailed library description, including the elaborate example, is in the [Modelica Documentation](https://github.com/DLR-RM/urdfmodelica/tree/main/URDFModelica/Documentation).
 
+## Reference Results
+Reference results for the library examples can be found in [urdfmodelica-referenceresults](https://github.com/DLR-RM/urdfmodelica-referenceresults).
+
 ## Contact
 Antoine Pignède [@afxp](https://github.com/afxp)<br>
 Carsten Oldemeyer [@CarstenOldemeyer](https://github.com/CarstenOldemeyer)<br>
