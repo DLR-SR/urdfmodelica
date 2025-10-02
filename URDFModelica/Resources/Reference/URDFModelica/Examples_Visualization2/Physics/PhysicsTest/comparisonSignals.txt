@@ -1,0 +1,7 @@
+time
+physicsRun.physics.frame_a.r_0[1]
+physicsRun.physics.frame_a.r_0[2]
+physicsRun.physics.frame_a.r_0[3]
+physicsRun.physics.frame_a.R.w[1]
+physicsRun.physics.frame_a.R.w[2]
+physicsRun.physics.frame_a.R.w[3]

@@ -1,0 +1,7 @@
+time
+robot.frame_tool.r_0[1]
+robot.frame_tool.r_0[2]
+robot.frame_tool.r_0[3]
+robot.frame_tool.R.w[1]
+robot.frame_tool.R.w[2]
+robot.frame_tool.R.w[3]

@@ -1,0 +1,7 @@
+time
+ur10e_robotRun.ur10e_robot.tool0.frame_a.r_0[1]
+ur10e_robotRun.ur10e_robot.tool0.frame_a.r_0[2]
+ur10e_robotRun.ur10e_robot.tool0.frame_a.r_0[3]
+ur10e_robotRun.ur10e_robot.tool0.frame_a.R.w[1]
+ur10e_robotRun.ur10e_robot.tool0.frame_a.R.w[2]
+ur10e_robotRun.ur10e_robot.tool0.frame_a.R.w[3]
